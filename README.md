@@ -1,7 +1,3 @@
-Here's a concise README file for your project:
-
----
-
 # Kaggle Playground Series - February 2025: Backpack Price Prediction
 
 ## Overview
